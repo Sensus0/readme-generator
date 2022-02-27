@@ -1,23 +1,24 @@
-# lkfsj
-  akjf
+# read me
+  make readme 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [Liscence](#liscence)
   * [Contributing](#contributing)
-  * [Tests](#tests)gra
+  * [Tests](#tests)
   * [Questions](#questions)
 ### Installation
-alsfjk
+use inquirer 
 ### Usage
-sljfg
+enter info in command line
 ### Liscence 
-BSD 3
+This project is liscenced under:
+APACHE 2.0
 ### Contribution
-jhz
+me and columbia
 ### Tests
-asjfh
+office hours
 ### Questions
-ajfhl
-ajfsh
+If you have any questions contact me on Github [Github](https://github.com/sensus0) or contact me at alskdfa@galj
+
 
