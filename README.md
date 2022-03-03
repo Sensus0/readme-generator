@@ -1,5 +1,5 @@
-# read me
-  make readme 
+# Readme generator
+  How to use inquirer to create a readme generator
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -8,17 +8,18 @@
   * [Tests](#tests)
   * [Questions](#questions)
 ### Installation
-use inquirer 
+download inquirer, create a prompt, use backticks/return
 ### Usage
-enter info in command line
+https://github.com/Sensus0/readme-generator
 ### Liscence 
 This project is liscenced under:
-APACHE 2.0
+[![License](https://img.shields.io/badge/License-MIT-liblue.svg)]
+undefined
 ### Contribution
-me and columbia
+me
 ### Tests
-office hours
+tutor, TA
 ### Questions
-If you have any questions contact me on Github [Github](https://github.com/sensus0) or contact me at alskdfa@galj
+If you have any questions contact me on Github [Github](https://github.com/Sensus0) or contact me at dverseconnect@gmail.com
 
 
